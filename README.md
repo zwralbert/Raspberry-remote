@@ -1,4 +1,10 @@
-# Raspberry-remove
+# Raspberry-remote
+树莓派3b+环境搭建:https://blog.csdn.net/zhangjun62/article/details/80517176
+树莓派+opencv3.4安装：https://www.jianshu.com/p/56929416b4a1
+树莓派+qt5安装 ：https://blog.csdn.net/qq_43433255/article/details/84678512
+树莓派+pycharm跨平台编译:https://blog.csdn.net/qq_43433255/article/details/84678512
+树莓派+python3+serial模块串口应用：http://www.waveshare.net/study/article-606-1.html
+树莓派+热点putty+vnc远程连接：https://blog.csdn.net/u011444756/article/details/83345595
 树莓派远程桌面显示更改，
 更改boot下config.txt
 
