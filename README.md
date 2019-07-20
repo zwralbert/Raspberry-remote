@@ -205,3 +205,11 @@ hdmi_mode=84   2048x1152       reduced blanking
 hdmi_mode=85   720p      60Hz
 
 hdmi_mode=86   1366x768        reduced blanking
+
+
+
+相关资料：链接：https://pan.baidu.com/s/1CoXNJqjHTD7Qv15bZ1sYOA 
+
+提取码：scn5 
+
+复制这段内容后打开百度网盘手机App，操作更方便哦
