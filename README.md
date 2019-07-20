@@ -206,7 +206,7 @@ hdmi_mode=85   720p      60Hz
 
 hdmi_mode=86   1366x768        reduced blanking
 
-
+opencv代码优化注意for循环和计算方式，可以多线程
 
 相关资料：链接：https://pan.baidu.com/s/1CoXNJqjHTD7Qv15bZ1sYOA 
 
