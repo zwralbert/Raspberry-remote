@@ -214,4 +214,5 @@ opencv代码优化注意for循环和计算方式，可以多线程
 提取码：scn5 
 
 资料文件win32下有我的镜像已经安装好QT和opencv:
-![avatar]3.png
+
+![avatar](3.png)
