@@ -10,6 +10,7 @@
 树莓派+python3+serial模块串口应用：http://www.waveshare.net/study/article-606-1.html
 
 树莓派+热点putty+vnc远程连接：https://blog.csdn.net/u011444756/article/details/83345595
+
 树莓派+ptyhon+自动启动编译需要创建两个文件分别（.desktop 和.sh）：https://blog.csdn.net/weixin_41860080/article/details/87211518 +https://blog.csdn.net/pjlxm/article/details/78285735 
 
 树莓派远程桌面显示更改，
